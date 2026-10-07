@@ -1,8 +1,0 @@
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer01_BubbleSortSwapCount.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer02_SelectionKSmallest.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer03_InsertionKSorted.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer04_BubbleParitySort.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer05_InsertionInversions.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/main_app.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
