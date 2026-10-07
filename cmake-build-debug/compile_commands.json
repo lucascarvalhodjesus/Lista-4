@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Exer01_BubbleSortSwapCount.dir/src/Exer01_BubbleSortSwapCount.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Exer01_BubbleSortSwapCount.dir/src/Exer01_BubbleSortSwapCount.cpp.o -c /home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer01_BubbleSortSwapCount.cpp",
+  "file": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer01_BubbleSortSwapCount.cpp",
+  "output": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer01_BubbleSortSwapCount.dir/src/Exer01_BubbleSortSwapCount.cpp.o"
+},
+{
+  "directory": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Exer02_SelectionKSmallest.dir/src/Exer02_SelectionKSmallest.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Exer02_SelectionKSmallest.dir/src/Exer02_SelectionKSmallest.cpp.o -c /home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer02_SelectionKSmallest.cpp",
+  "file": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer02_SelectionKSmallest.cpp",
+  "output": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer02_SelectionKSmallest.dir/src/Exer02_SelectionKSmallest.cpp.o"
+},
+{
+  "directory": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Exer03_InsertionKSorted.dir/src/Exer03_InsertionKSorted.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Exer03_InsertionKSorted.dir/src/Exer03_InsertionKSorted.cpp.o -c /home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer03_InsertionKSorted.cpp",
+  "file": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer03_InsertionKSorted.cpp",
+  "output": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer03_InsertionKSorted.dir/src/Exer03_InsertionKSorted.cpp.o"
+},
+{
+  "directory": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Exer04_BubbleParitySort.dir/src/Exer04_BubbleParitySort.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Exer04_BubbleParitySort.dir/src/Exer04_BubbleParitySort.cpp.o -c /home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer04_BubbleParitySort.cpp",
+  "file": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer04_BubbleParitySort.cpp",
+  "output": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer04_BubbleParitySort.dir/src/Exer04_BubbleParitySort.cpp.o"
+},
+{
+  "directory": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Exer05_InsertionInversions.dir/src/Exer05_InsertionInversions.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Exer05_InsertionInversions.dir/src/Exer05_InsertionInversions.cpp.o -c /home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer05_InsertionInversions.cpp",
+  "file": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/src/Exer05_InsertionInversions.cpp",
+  "output": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/Exer05_InsertionInversions.dir/src/Exer05_InsertionInversions.cpp.o"
+},
+{
+  "directory": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/main_app.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/main_app.dir/main.cpp.o -c /home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/main.cpp",
+  "file": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/main.cpp",
+  "output": "/home/lucas/Documentos/ed2-elementary-sorting-list03-cpp/cmake-build-debug/CMakeFiles/main_app.dir/main.cpp.o"
+}
+]
